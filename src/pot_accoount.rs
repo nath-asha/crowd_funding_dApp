@@ -4,5 +4,5 @@ pub struct PotAccount {
 }
 
 impl PotAccount {
-    // Implement methods for pot account functionality
+    // Implement methods for pot account functionality..
 }
